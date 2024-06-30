@@ -43,7 +43,7 @@ _Pro tip:_ use ``msifancontrol install /y`` for Chuck Norris mode (no questions 
 
 ## Uninstallation
 
-1. Reverting changes done by this reg file: https://github.com/EKlaman/MsiFanControl/blob/master/MsiFanControl/MsiWmiAcpiMof.reg
+1. Revert changes made by ``MsiWmiAcpiMof.reg``
 
 2. Optionally remove ´´%windir%\\\\sysWOW64\\\\MsiWmiAcpiMof.dll´´
 ## Using different profiles
